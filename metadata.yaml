@@ -1,0 +1,36 @@
+_repo: Personal-Recollections-of-Pardee-Butler_12973
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butler, Pardee
+    birthdate: 1816
+    deathdate: 1888
+    gutenberg_agent_id: '4746'
+    url: http://www.gutenberg.org/2009/agents/4746
+  editor:
+    agent_name: Hastings, Rosetta Butler
+    birthdate: 1844
+    deathdate: 1934
+    gutenberg_agent_id: '4747'
+    url: http://www.gutenberg.org/2009/agents/4747
+description: Rev. Pardee Butler was born at Skaneateles, Onondaga County, New York,
+  in 1816, the son of Phineas and Sarah Pardee Butler. His family migrated to Wadsworth,
+  Medina County, Ohio, in 1818, and to Sandusky Plains, Ohio, in 1839. He married
+  Sibjl S. Carleton, daughter of Joseph Carleton, at Sullivan, Ashland County, Ohio,
+  in 1843. Their family migrated to Iowa in 1850, to Illinois, and in 1855 to Kansas.
+  He was a minister, and fought against slavery, and for prohabition. He died at his
+  home near Farmington, Kansas, in 1888.
+gutenberg_issued: '2004-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kansas -- History -- 1854-1861'
+- !lcc 'F590.3'
+- GITenberg
+title: Personal Recollections of Pardee Butler
+url: http://www.gutenberg.org/ebooks/12973
