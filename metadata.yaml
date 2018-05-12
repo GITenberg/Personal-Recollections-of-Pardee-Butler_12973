@@ -1,5 +1,8 @@
 _repo: Personal-Recollections-of-Pardee-Butler_12973
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 12973-h/images/pardee-cover.jpg
 creator:
   author:
     agent_name: Butler, Pardee
@@ -20,6 +23,8 @@ description: Rev. Pardee Butler was born at Skaneateles, Onondaga County, New Yo
   in 1843. Their family migrated to Iowa in 1850, to Illinois, and in 1855 to Kansas.
   He was a minister, and fought against slavery, and for prohabition. He died at his
   home near Farmington, Kansas, in 1888.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12973#Personal-Recollections-of-Pardee-Butler
 gutenberg_issued: '2004-07-21'
 gutenberg_type: Text
 identifiers:
